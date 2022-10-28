@@ -23,6 +23,29 @@ Icon Image
 - [x ] User should see an flip animation when revealing the answer
 - [ x] User should see a slide animation when going to the next flashcard
 - [ x] Push code to GitHub
+
+
+
+## Lab 2
+
+### App Description
+This is a simple flashcard app that poses a question to the user and allows them to check answer by clicking on the question, it allows the user to customize the questions by inputing their own question and changing the previous question to the new question.
+
+### App Walk-though
+`
+
+ ![](https://i.imgur.com/N3qFSiA.gif)
+
+
+`
+
+## Required
+- [ x] User can open the creation screen
+- [x ] User can cancel out of the creation screen
+- [ x] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x ] Push code to GitHub
+
+
  
 
 
