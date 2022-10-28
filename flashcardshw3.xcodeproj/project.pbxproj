@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2F8A108228DBFF0A00F9E2F5 /* flashcardshw1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flashcardshw1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F8A108228DBFF0A00F9E2F5 /* flashcardshw3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flashcardshw3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8A108528DBFF0A00F9E2F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F8A108728DBFF0A00F9E2F5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2F8A108928DBFF0A00F9E2F5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -45,9 +45,9 @@
 		2F8A108E28DBFF0C00F9E2F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F8A109128DBFF0C00F9E2F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F8A109328DBFF0C00F9E2F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2F8A109828DBFF0D00F9E2F5 /* flashcardshw1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardshw1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F8A109828DBFF0D00F9E2F5 /* flashcardshw3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardshw3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8A109C28DBFF0D00F9E2F5 /* flashcardshw1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardshw1Tests.swift; sourceTree = "<group>"; };
-		2F8A10A228DBFF0D00F9E2F5 /* flashcardshw1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardshw1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F8A10A228DBFF0D00F9E2F5 /* flashcardshw3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardshw3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8A10A628DBFF0D00F9E2F5 /* flashcardshw1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardshw1UITests.swift; sourceTree = "<group>"; };
 		2F8A10A828DBFF0D00F9E2F5 /* flashcardshw1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardshw1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2FD5260E290B6122006FA3D2 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
@@ -92,9 +92,9 @@
 		2F8A108328DBFF0A00F9E2F5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2F8A108228DBFF0A00F9E2F5 /* flashcardshw1.app */,
-				2F8A109828DBFF0D00F9E2F5 /* flashcardshw1Tests.xctest */,
-				2F8A10A228DBFF0D00F9E2F5 /* flashcardshw1UITests.xctest */,
+				2F8A108228DBFF0A00F9E2F5 /* flashcardshw3.app */,
+				2F8A109828DBFF0D00F9E2F5 /* flashcardshw3Tests.xctest */,
+				2F8A10A228DBFF0D00F9E2F5 /* flashcardshw3UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -133,9 +133,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2F8A108128DBFF0A00F9E2F5 /* flashcardshw1 */ = {
+		2F8A108128DBFF0A00F9E2F5 /* flashcardshw3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F8A10AC28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1" */;
+			buildConfigurationList = 2F8A10AC28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3" */;
 			buildPhases = (
 				2F8A107E28DBFF0A00F9E2F5 /* Sources */,
 				2F8A107F28DBFF0A00F9E2F5 /* Frameworks */,
@@ -145,14 +145,14 @@
 			);
 			dependencies = (
 			);
-			name = flashcardshw1;
+			name = flashcardshw3;
 			productName = flashcardshw1;
-			productReference = 2F8A108228DBFF0A00F9E2F5 /* flashcardshw1.app */;
+			productReference = 2F8A108228DBFF0A00F9E2F5 /* flashcardshw3.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2F8A109728DBFF0D00F9E2F5 /* flashcardshw1Tests */ = {
+		2F8A109728DBFF0D00F9E2F5 /* flashcardshw3Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F8A10AF28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1Tests" */;
+			buildConfigurationList = 2F8A10AF28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3Tests" */;
 			buildPhases = (
 				2F8A109428DBFF0D00F9E2F5 /* Sources */,
 				2F8A109528DBFF0D00F9E2F5 /* Frameworks */,
@@ -163,14 +163,14 @@
 			dependencies = (
 				2F8A109A28DBFF0D00F9E2F5 /* PBXTargetDependency */,
 			);
-			name = flashcardshw1Tests;
+			name = flashcardshw3Tests;
 			productName = flashcardshw1Tests;
-			productReference = 2F8A109828DBFF0D00F9E2F5 /* flashcardshw1Tests.xctest */;
+			productReference = 2F8A109828DBFF0D00F9E2F5 /* flashcardshw3Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2F8A10A128DBFF0D00F9E2F5 /* flashcardshw1UITests */ = {
+		2F8A10A128DBFF0D00F9E2F5 /* flashcardshw3UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F8A10B228DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1UITests" */;
+			buildConfigurationList = 2F8A10B228DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3UITests" */;
 			buildPhases = (
 				2F8A109E28DBFF0D00F9E2F5 /* Sources */,
 				2F8A109F28DBFF0D00F9E2F5 /* Frameworks */,
@@ -181,9 +181,9 @@
 			dependencies = (
 				2F8A10A428DBFF0D00F9E2F5 /* PBXTargetDependency */,
 			);
-			name = flashcardshw1UITests;
+			name = flashcardshw3UITests;
 			productName = flashcardshw1UITests;
-			productReference = 2F8A10A228DBFF0D00F9E2F5 /* flashcardshw1UITests.xctest */;
+			productReference = 2F8A10A228DBFF0D00F9E2F5 /* flashcardshw3UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -209,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2F8A107D28DBFF0A00F9E2F5 /* Build configuration list for PBXProject "flashcardshw1" */;
+			buildConfigurationList = 2F8A107D28DBFF0A00F9E2F5 /* Build configuration list for PBXProject "flashcardshw3" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -222,9 +222,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2F8A108128DBFF0A00F9E2F5 /* flashcardshw1 */,
-				2F8A109728DBFF0D00F9E2F5 /* flashcardshw1Tests */,
-				2F8A10A128DBFF0D00F9E2F5 /* flashcardshw1UITests */,
+				2F8A108128DBFF0A00F9E2F5 /* flashcardshw3 */,
+				2F8A109728DBFF0D00F9E2F5 /* flashcardshw3Tests */,
+				2F8A10A128DBFF0D00F9E2F5 /* flashcardshw3UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -290,12 +290,12 @@
 /* Begin PBXTargetDependency section */
 		2F8A109A28DBFF0D00F9E2F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2F8A108128DBFF0A00F9E2F5 /* flashcardshw1 */;
+			target = 2F8A108128DBFF0A00F9E2F5 /* flashcardshw3 */;
 			targetProxy = 2F8A109928DBFF0D00F9E2F5 /* PBXContainerItemProxy */;
 		};
 		2F8A10A428DBFF0D00F9E2F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2F8A108128DBFF0A00F9E2F5 /* flashcardshw1 */;
+			target = 2F8A108128DBFF0A00F9E2F5 /* flashcardshw3 */;
 			targetProxy = 2F8A10A328DBFF0D00F9E2F5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -503,7 +503,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardshw1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flashcardshw1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardshw3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flashcardshw3";
 			};
 			name = Debug;
 		};
@@ -522,7 +522,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardshw1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flashcardshw1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/flashcardshw3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/flashcardshw3";
 			};
 			name = Release;
 		};
@@ -563,7 +563,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2F8A107D28DBFF0A00F9E2F5 /* Build configuration list for PBXProject "flashcardshw1" */ = {
+		2F8A107D28DBFF0A00F9E2F5 /* Build configuration list for PBXProject "flashcardshw3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F8A10AA28DBFF0D00F9E2F5 /* Debug */,
@@ -572,7 +572,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F8A10AC28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1" */ = {
+		2F8A10AC28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F8A10AD28DBFF0D00F9E2F5 /* Debug */,
@@ -581,7 +581,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F8A10AF28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1Tests" */ = {
+		2F8A10AF28DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F8A10B028DBFF0D00F9E2F5 /* Debug */,
@@ -590,7 +590,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F8A10B228DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw1UITests" */ = {
+		2F8A10B228DBFF0D00F9E2F5 /* Build configuration list for PBXNativeTarget "flashcardshw3UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F8A10B328DBFF0D00F9E2F5 /* Debug */,
