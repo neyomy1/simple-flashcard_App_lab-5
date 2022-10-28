@@ -24,6 +24,24 @@ Icon Image
 - [ x] User should see a slide animation when going to the next flashcard
 - [ x] Push code to GitHub
 
+## Lab 3
+
+### App Description
+`This app allows the user to customize an already exisiting flashcard by adding more flashcard and also editing the questions on the flashcard, it also autosaves what the user an input so that when they exit the app and come back later it is still there.
+
+### App Walk-though
+
+
+  ![](https://i.imgur.com/FG2y1vp.gif)
+  
+
+
+
+## Required
+- [x ] User can browse through multiple flashcards
+- [ x] User can re-open the app and see previously created flashcards
+- [x ] Push code to GitHub
+
 
 
 ## Lab 2
