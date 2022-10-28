@@ -8,6 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
 
     @IBOutlet weak var frontlabel: UILabel!
     @IBOutlet weak var backlabel: UILabel!
@@ -18,7 +19,22 @@ class ViewController: UIViewController {
     }
 
 
-    @IBAction func didTapOnFlashcard(_ sender: Any) {frontlabel.isHidden=true
+    @IBAction func didTapOnFlashcard(_ sender: Any) {
+        frontlabel.isHidden=true
+    }
+    func updateFlashcard(QuestionText: String, AnswerText: String){
+        frontlabel.text = QuestionText
+        backlabel.text = AnswerText
+        
+        
+        
+    }
+    override func prepare(for segue :UIStoryboardSegue, sender: Any?){
+        let navigationController = segue.destination as! UINavigationController
+        let creationController = navigationController.topViewController as! CreationViewController
+        creationController.flashcardsController = self
+   
+        
     }
 }
 

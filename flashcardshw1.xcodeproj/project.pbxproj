@@ -16,6 +16,7 @@
 		2F8A109D28DBFF0D00F9E2F5 /* flashcardshw1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8A109C28DBFF0D00F9E2F5 /* flashcardshw1Tests.swift */; };
 		2F8A10A728DBFF0D00F9E2F5 /* flashcardshw1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8A10A628DBFF0D00F9E2F5 /* flashcardshw1UITests.swift */; };
 		2F8A10A928DBFF0D00F9E2F5 /* flashcardshw1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8A10A828DBFF0D00F9E2F5 /* flashcardshw1UITestsLaunchTests.swift */; };
+		2FD5260F290B6123006FA3D2 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD5260E290B6122006FA3D2 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2F8A10A228DBFF0D00F9E2F5 /* flashcardshw1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flashcardshw1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8A10A628DBFF0D00F9E2F5 /* flashcardshw1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardshw1UITests.swift; sourceTree = "<group>"; };
 		2F8A10A828DBFF0D00F9E2F5 /* flashcardshw1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardshw1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2FD5260E290B6122006FA3D2 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		2F8A107928DBFF0A00F9E2F5 = {
 			isa = PBXGroup;
 			children = (
+				2FD5260E290B6122006FA3D2 /* CreationViewController.swift */,
 				2F8A108428DBFF0A00F9E2F5 /* flashcardshw1 */,
 				2F8A109B28DBFF0D00F9E2F5 /* flashcardshw1Tests */,
 				2F8A10A528DBFF0D00F9E2F5 /* flashcardshw1UITests */,
@@ -261,6 +264,7 @@
 				2F8A108A28DBFF0A00F9E2F5 /* ViewController.swift in Sources */,
 				2F8A108628DBFF0A00F9E2F5 /* AppDelegate.swift in Sources */,
 				2F8A108828DBFF0A00F9E2F5 /* SceneDelegate.swift in Sources */,
+				2FD5260F290B6123006FA3D2 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
