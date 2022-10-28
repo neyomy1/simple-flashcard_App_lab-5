@@ -1,6 +1,31 @@
 ## Flashcards
 
 
+## Lab 4
+
+### App Description
+`This is a simple flashcard app that allows the user to input questions and answers into a number of flashcards. The questions are shown on the screen when the user opens the app but they have to tap on the question for them to see the anwer. The app also allows the user to go back to previous flashcards, check on the next ones or cancel and just go bck to the homepage.
+
+### App Walk-though
+
+
+
+![](https://i.imgur.com/0uTVxBU.gif)
+****
+Icon Image
+
+![](https://i.imgur.com/kYFbgCY.jpg)
+
+
+## Required
+- [x ] User should see the app icon 
+- [x ] User should see a splash screen
+- [x ] User should see an flip animation when revealing the answer
+- [ x] User should see a slide animation when going to the next flashcard
+- [ x] Push code to GitHub
+ 
+
+
 ## Lab 1
 
 ### App Description
